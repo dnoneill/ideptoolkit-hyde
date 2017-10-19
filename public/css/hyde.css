@@ -31,15 +31,15 @@
  * Update the foundational and global aspects of the page.
  */
 
-.arm, .eng, .spa {
+.arm, .eng, .spa, .ara {
   text-transform: lowercase;
 }
 
-div.content:lang(ar) { 
+div.content:lang(ara) { 
      direction: rtl;
 }
 
-div.sidebar:lang(ar) { 
+div.sidebar:lang(ara) { 
    text-align: right;
 }
 
