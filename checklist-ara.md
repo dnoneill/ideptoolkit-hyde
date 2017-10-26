@@ -8,7 +8,7 @@ ref: checklist
 permalink: /checklist-ara
 ---
 
-## إعدادات الكاميرا
+### إعدادات الكاميرا
 
 تأكد من ضبط:
 
