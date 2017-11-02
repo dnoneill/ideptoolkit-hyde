@@ -331,3 +331,11 @@ a.sidebar-nav-lang:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.author-image {
+ width: 120px;
+ height: 120px;
+ vertical-align:middle;
+ display:inline-block;
+ border-radius: 100%;
+}
