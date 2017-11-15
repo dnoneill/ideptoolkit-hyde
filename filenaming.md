@@ -28,7 +28,7 @@ File names should allow you to identify files with precision from the name. Choo
 
 **Some best practices:**
 
-* All special characters such as `~ ! @ - # $ % ^ & * ( ) ; < > ? , [ ] { } ' " |` should be avoided. Stick to numbers, Roman letters (preferably lower case), and underscores `_`.
+* All special characters such as the should be avoided. Stick to numbers, Roman letters (preferably lower case), and underscores `_`.
 * Do not use spaces or dashes. Some software will not recognize file names with spaces, and file names with spaces must be enclosed in quotes when using the command line.
 * Alternatives to spaces include:
   * Underscores, e.g. `file_name.xxx`
