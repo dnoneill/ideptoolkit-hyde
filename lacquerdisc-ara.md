@@ -272,7 +272,7 @@ Jelco DIN to Phono and Ground كابل
 ![](../assets/img/lacq/image09.jpg)
 Shure N44-3 generic 78 stylus قلم
 ![](../assets/img/lacq/image10.jpg)
-قلم Expert Styli بمقياس: 2.1 mils, 2.3 mils, 2.5 mils 2.8 mils, 3.0 mils, 3.2 mils  
+قلم Expert Styli بمقياس: mils 3.2 ،mils 3.0 ،mils 2.8 ،mils 2.5 ،mils 2.3 ،mils 2.1
 ![](../assets/img/lacq/image12.jpg)
 عمود نقل الصوت  Jelco SA-750L
 ![](../assets/img/lacq/image13.jpg)

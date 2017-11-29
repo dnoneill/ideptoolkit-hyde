@@ -109,7 +109,7 @@ HD&gt;Developer&gt;FireWireSDK26&gt;Applications&gt;AVCVideoCap.app**
  ![](../assets/img/minidv/screenshot4.png)
 3. اسم المشروع الخاص بك وحدد &quot;حفظ&quot; في إطار &quot;حدد التقاط ملف&quot;. حدد موقعا على محرك الأقراص الثابتة لالتقاط الفيديو.
  ![](../assets/img/minidv/screenshot5.png)
-4. سوف يبدأ MiniDV  تلقائيا العمل ونقل بيانات HDV. عند اكتمال الشريط سوف تتوقف تلقائيا. إذا كنت ترغب في إيقاف الالتقاط في أي لحظة، حدد &quot;إيقاف الالتقاط&quot;. سوف يكون ملف الفيديو الرقمي الناتج بإمتداد .m2t.
+4. سوف يبدأ MiniDV  تلقائيا العمل ونقل بيانات HDV. عند اكتمال الشريط سوف تتوقف تلقائيا. إذا كنت ترغب في إيقاف الالتقاط في أي لحظة، حدد &quot;إيقاف الالتقاط&quot;. سوف يكون ملف الفيديو الرقمي الناتج بإمتداد m2t. .
 ![](../assets/img/minidv/screenshot6.png)
 
 ## إنشاء ملفات مباشرة سهلة الوصول  
@@ -124,7 +124,7 @@ HD&gt;Developer&gt;FireWireSDK26&gt;Applications&gt;AVCVideoCap.app**
 ![](../assets/img/minidv/access1.png)
 3. حدد كل عنصر في قائمة الانتظار، وضمن &quot;تنسيق&quot; حدد H.264 من القائمة المنسدلة لمعايير الفيديو.
 ![](../assets/img/minidv/access2.png)
-4. ضمن &quot;الضبط المسبق&quot;، حدد &quot;مكتبة UCLA - UCLA Library - Video - Streaming File.&quot;. مواصفات هذا الإعداد المسبق هي:
+4. ضمن &quot;الضبط المسبق&quot;، حدد &quot;مكتبة UCLA - UCLA Library - Video - Streaming File.&quot; مواصفات هذا الإعداد المسبق هي:
 	* Video Stream: H.264/mp4 –AVC, SD, 480p
 	* Audio Stream: 32 kHz/16-bit AAC
 ![](../assets/img/minidv/access3.png)

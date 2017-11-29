@@ -10,8 +10,8 @@ permalink: /terms
 <!-- TOC depthFrom:3 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [1. Title (Required)](#1-title-required)
-- [2. Filename (Required) & Identifiers](#2-filename-required-identifiers)
-- [3. Creator / Contributor (Recommended)](#3-creator-contributor-recommended)
+- [2. Filename (Required) & Identifiers](#2-filename-required--identifiers)
+- [3. Creator / Contributor (Recommended)](#3-creator--contributor-recommended)
 - [4. Publisher place (Recommended)](#4-publisher-place-recommended)
 - [5. Date (Required)](#5-date-required)
 - [6. Language (Required)](#6-language-required)
