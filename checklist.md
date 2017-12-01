@@ -31,8 +31,8 @@ Make Sure:
 	* Make sure Lightroom opens with the catalog you are working with (ex. “soviet_posters” or 	“film_posters”)
 	* From the File menu, choose Tethered Shooting, then Start Tethered Shooting
     * Settings:
-    	* Give the session a name (ex. soviet02, film03, etc.)
-    	* Next to Template, choose Edit from the pulldown menu
+		* Give the session a name (ex. soviet02, film03, etc.)
+		* Next to Template, choose Edit from the pulldown menu
         * In the text box, delete the pattern that is there
         * Type in the filename prefix followed by an underscore `_` (ex. `soviet_`)
         * In the Number section, choose Sequence # (00001) and Insert
