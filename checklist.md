@@ -37,8 +37,8 @@ Make Sure:
         * Type in the filename prefix followed by an underscore `_` (ex. `soviet_`)
         * In the Number section, choose Sequence # (00001) and Insert
     	* The template should look something like: `soviet_ Sequence # (00001)`
-    	* Click on Done
-    	* Click OK
+		* Click on Done
+		* Click OK
 
 ### Setup the Light Battery Pack & TTL Flash Remote
 
@@ -84,17 +84,17 @@ In the Develop tab, crop images and straighten
 Create Color Checker Profile for session
 
 * Export image with Color Checker to Desktop as DNG
-  	* Select image
-  	* From the File menu, choose Export
- 	* Settings:
-  		  * Export to: Desktop
-   		 * Image Format: DNG
- 	 * Click the Export button (this will save the reference image on your desktop)
+	* Select image
+	* From the File menu, choose Export
+	* Settings:
+		* Export to: Desktop
+		* Image Format: DNG
+	* Click the Export button (this will save the reference image on your desktop)
 * Open ColorChecker Passport Software
 * Drag and drop image into ColorChecker Passport window
-	  * Wait for profile to load
-	  * Click on the “Create Profile” button
-  	* Name the new profile with the session name (ex. soviet001)
+	* Wait for profile to load
+	* Click on the “Create Profile” button
+	* Name the new profile with the session name (ex. soviet001)
 * Close ColorChecker Passport
 * Close and re-open Lightroom to load the new profile
 
@@ -109,10 +109,10 @@ Export image batch as TIFF
 * Select all images in current session
 * From the File menu, choose Exports
 * Settings:
-  	* Under Export Location, choose destination to export files (Desktop or an external drive), check “Put in a Subfolder”, and give new folder a name
- 	 * Under File Naming, check “Rename To:” and choose Edit from the pull-down menu
- 	 * In the Filename Template Editor window, add “Filename_Copy Name” to the template editor using the Insert buttons (see image below), then select Done
-  	* In File Settings section, set file extension to TIFF
-  	* Export
+	* Under Export Location, choose destination to export files (Desktop or an external drive), check “Put in a Subfolder”, and give new folder a name
+	* Under File Naming, check “Rename To:” and choose Edit from the pull-down menu
+	* In the Filename Template Editor window, add “Filename_Copy Name” to the template editor using the Insert buttons (see image below), then select Done
+	* In File Settings section, set file extension to TIFF
+	* Export
 
 Give the external drive with the new batch of images to the metadata team. Done!
