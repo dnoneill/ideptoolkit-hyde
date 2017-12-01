@@ -28,17 +28,17 @@ Make Sure:
 * Remove camera lens cap
 * Link camera to laptop
 * Open and Setup Lightroom
-	* Make sure Lightroom opens with the catalog you are working with (ex. “soviet_posters” or 	“film_posters”)
-	* From the File menu, choose Tethered Shooting, then Start Tethered Shooting
-    * Settings:
+ 	 * Make sure Lightroom opens with the catalog you are working with (ex. “soviet_posters” or 	“film_posters”)
+  	* From the File menu, choose Tethered Shooting, then Start Tethered Shooting
+  	* Settings:
     	* Give the session a name (ex. soviet02, film03, etc.)
     	* Next to Template, choose Edit from the pulldown menu
-        * In the text box, delete the pattern that is there
-        * Type in the filename prefix followed by an underscore `_` (ex. `soviet_`)
-        * In the Number section, choose Sequence # (00001) and Insert
-    	* The template should look something like: `soviet_ Sequence # (00001)`
-    	* Click on Done
-    	* Click OK
+ 		 	 * In the text box, delete the pattern that is there
+ 		 	 * Type in the filename prefix followed by an underscore `_` (ex. `soviet_`)
+    	 	 * In the Number section, choose Sequence # (00001) and Insert
+    	  	* The template should look something like: `soviet_ Sequence # (00001)`
+    	  	* Click on Done
+    	  	* Click OK
 
 ### Setup the Light Battery Pack & TTL Flash Remote
 
@@ -60,7 +60,7 @@ On TTL Flash Remote:
 
 * First, take one photograph with the ColorChecker Passport
 * Begin shooting each poster
-   * Mount poster
+  	* Mount poster
 	  * Take photograph
  	 * Record the localID (number from the back of poster) in the “Copy Name” field in the 	Metadata section
   	* Repeat until all posters are photographed
