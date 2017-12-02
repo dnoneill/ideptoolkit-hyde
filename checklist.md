@@ -61,9 +61,9 @@ On TTL Flash Remote:
 * First, take one photograph with the ColorChecker Passport
 * Begin shooting each poster
    * Mount poster
-	  * Take photograph
- 	 * Record the localID (number from the back of poster) in the “Copy Name” field in the 	Metadata section
-  	* Repeat until all posters are photographed
+   * Take photograph
+   * Record the localID (number from the back of poster) in the “Copy Name” field in the 	Metadata section
+   * Repeat until all posters are photographed
 
 ### Finishing the shoot
 
