@@ -189,7 +189,7 @@ Note: Shutter release has a lock. Unlock before detaching. The shutter can be tr
 #### Test flash settings
 1. Take an image, ideally using the remote shutter release or button available in Lightroom so as not to create camera shake.
 2. Review image in Lightroom
-	  * Zoom into the image – are things in focus?
+	* Zoom into the image – are things in focus?
 	* Look at Histogram – Is the image too dark or too light?
     * Histogram should be evenly distributed without too much information skewing right or left, if the hills are too far to the right the image will appear darker than it should be. If hills are too far to the left the image will appear lighter than it should be.
     * Adjusting the output in the battery pack may be needed at this point to either provide more or less light, depending on histogram. Adjust and troubleshoot until histogram looks evenly distributed.
