@@ -175,10 +175,15 @@ To accurately verify your vertical racking force, use a stylus pressure gauge. I
 
 ### Launch the audio capture software
 1. Open Adobe Audition
+
 2. Go to *File> New> Audio File*
+
 3. For “File Name” include a unique identifier
+
 4. Set “Sample Rate” to 96,000 Hz
+
 5. Set “Channels” to Stereo. Even with mono recordings you will want to capture the sound from both walls for the master preservation file. The stereo channels can be turned into a mono audio file later on if required
+
 6. Set “Bit Depth” to 24 bits
 ![](../assets/img/lacq/image19.jpg)
 
